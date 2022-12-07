@@ -21,3 +21,7 @@ The models included are
 # Source Files
 
 * Final_Project_CBB.Rmd
+
+# References
+
+* Used the dataset: https://www.kaggle.com/datasets/andrewsundberg/college-basketball-dataset?select=cbb20.csv
