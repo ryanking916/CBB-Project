@@ -11,12 +11,6 @@ The models included are
 
 * Name: Ryan King
 * Email: ryanking@chapman.edu
-* Name: Blake Khaleghi
-* Email: khaleghi@chapman.edu
-* Name: Neel Shastri
-* Email: nshastri@chapman.edu
-* Name: Grant Sielman
-* Email: sielman@chapman.edu
 
 # Source Files
 
