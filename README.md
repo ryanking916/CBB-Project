@@ -11,10 +11,10 @@ The models included are
 * Name: Ryan King
 * Email: ryanhking9@gmail.com
 
-# Source Files
+## Source Files
 * Final_Project_CBB.Rmd
 
-# References
+## References
 * Used the dataset: https://www.kaggle.com/datasets/andrewsundberg/college-basketball-dataset?select=cbb20.csv
 
 ## Known Errors
