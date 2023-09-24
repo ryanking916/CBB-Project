@@ -12,7 +12,7 @@ The models included are
 ## Identifying Information
 
 * Name: Ryan King
-* Email: Ryanking9@gmail.com
+* Email: Ryanhking9@gmail.com
 * Course: MGSC 310 - Statistical Models in Business
 * Date: Fall 2022
 * Assignment: CBB Project
